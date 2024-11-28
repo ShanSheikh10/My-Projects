@@ -1,2 +1,4 @@
 # My-Projects
-This repository holds the important projects
+This repository holds important projects.
+<br>
+Author- Shan
